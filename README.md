@@ -1,7 +1,7 @@
 *🐦🐦 Flappy Bird (My First Python Project)🐦🐦*
 
 This is my very first programming project It is famous game name flappy bird i have created a clone or copy of it
-<img src="gameplay.png" alt="Flappy Bird Gameplay" width="300" />
+<img src="gameplay.png" alt="Flappy Bird Gameplay" width="300" /><br>
 I made this project to learn how to make games how to make things move with gravity and how to check when things crash into each other
 
 ---
